@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+
+<entity-engine-xml>
+
+    <OfbizDemo ofbizDemoId="DEMO_1" ofbizDemoTypeId="Demo_2" firstName="First name 1" lastName="Last name 1" comments="This first record."/>
+    <OfbizDemo ofbizDemoId="DEMO_2" ofbizDemoTypeId="Demo_1" firstName="First name" lastName="last name 2" comments="This second record."/>
+    <OfbizDemo ofbizDemoId="DEMO_3" ofbizDemoTypeId="Demo_2" firstName="First name 3" lastName="last name 3" comments="This third record."/>
+    <OfbizDemo ofbizDemoId="DEMO_4" ofbizDemoTypeId="Demo_1" firstName="First name 4" lastName="last name 4" comments="This fourth record."/>
+    <OfbizDemo ofbizDemoId="DEMO_5" ofbizDemoTypeId="Demo_1" firstName="First name 5" lastName="last name 5" comments="This fifth record."/>
+
+</entity-engine-xml>
