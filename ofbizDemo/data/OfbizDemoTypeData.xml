@@ -19,5 +19,6 @@ under the License.
 -->
 
 <entity-engine-xml>
-
+    <OfbizDemoType ofbizDemoTypeId="DEMO1" description="ofbizDemoType Demo1"/>
+    <OfbizDemoType ofbizDemoTypeId="DEMO2" description="ofbizDemoType Demo2"/>
 </entity-engine-xml>
