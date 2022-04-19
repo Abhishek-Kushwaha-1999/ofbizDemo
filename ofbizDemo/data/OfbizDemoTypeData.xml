@@ -20,7 +20,4 @@ under the License.
 
 <entity-engine-xml>
 
-    <OfbizDemoType ofbizDemoTypeId="Demo_1" description="first description"/>
-    <OfbizDemoType ofbizDemoTypeId="Demo_2" description="second description"/>
-
 </entity-engine-xml>

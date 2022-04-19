@@ -20,10 +20,4 @@ under the License.
 
 <entity-engine-xml>
 
-    <OfbizDemo ofbizDemoId="DEMO_1" ofbizDemoTypeId="Demo_2" firstName="First name 1" lastName="Last name 1" comments="This first record."/>
-    <OfbizDemo ofbizDemoId="DEMO_2" ofbizDemoTypeId="Demo_1" firstName="First name" lastName="last name 2" comments="This second record."/>
-    <OfbizDemo ofbizDemoId="DEMO_3" ofbizDemoTypeId="Demo_2" firstName="First name 3" lastName="last name 3" comments="This third record."/>
-    <OfbizDemo ofbizDemoId="DEMO_4" ofbizDemoTypeId="Demo_1" firstName="First name 4" lastName="last name 4" comments="This fourth record."/>
-    <OfbizDemo ofbizDemoId="DEMO_5" ofbizDemoTypeId="Demo_1" firstName="First name 5" lastName="last name 5" comments="This fifth record."/>
-
 </entity-engine-xml>
