@@ -18,4 +18,4 @@ def createOfbizDemo() {
         return error("Error in creating record in OfbizDemo entity ........");
     }
     return result;
-} 
+}
